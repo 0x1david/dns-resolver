@@ -1,0 +1,12 @@
+/home/flxvs/repositories/rust/codecrafters-dns-server-rust/target/debug/deps/libanstyle-fd906361b686b5a1.rmeta: /home/flxvs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/lib.rs /home/flxvs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/macros.rs /home/flxvs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/color.rs /home/flxvs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/effect.rs /home/flxvs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/reset.rs /home/flxvs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/style.rs
+
+/home/flxvs/repositories/rust/codecrafters-dns-server-rust/target/debug/deps/libanstyle-fd906361b686b5a1.rlib: /home/flxvs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/lib.rs /home/flxvs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/macros.rs /home/flxvs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/color.rs /home/flxvs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/effect.rs /home/flxvs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/reset.rs /home/flxvs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/style.rs
+
+/home/flxvs/repositories/rust/codecrafters-dns-server-rust/target/debug/deps/anstyle-fd906361b686b5a1.d: /home/flxvs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/lib.rs /home/flxvs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/macros.rs /home/flxvs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/color.rs /home/flxvs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/effect.rs /home/flxvs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/reset.rs /home/flxvs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/style.rs
+
+/home/flxvs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/lib.rs:
+/home/flxvs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/macros.rs:
+/home/flxvs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/color.rs:
+/home/flxvs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/effect.rs:
+/home/flxvs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/reset.rs:
+/home/flxvs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/style.rs:

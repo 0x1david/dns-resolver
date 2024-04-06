@@ -1,0 +1,17 @@
+[package]
+name = "dns-starter-rust"
+version = "0.1.0"
+authors = ["Codecrafters <hello@codecrafters.io>"]
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.68"
+bytes = "1.3.0"
+thiserror = "1.0.38"
+nom = "7.1.3"
+rand = "0.8.5"
+tokio = { version = "1.37.0", features = ["full"]}
+proc-macro2 = "1.0.28"
+clap = { version = "4.5.4", features = ["derive"] }
+log = "0.4.21"
+env_logger = "0.11.3"
