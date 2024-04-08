@@ -1,12 +1,11 @@
 mod message;
 
 use crate::message::message::{AsBytes, Message};
-use log::{debug, info, error};
 use anyhow::{Context, Result};
 use clap::command;
 use clap::Parser;
+use log::{debug, error, info};
 use tokio::{self, net::UdpSocket};
-
 
 #[derive(Parser, Debug)]
 #[command(name = "DNS Forwarder")]
@@ -64,7 +63,6 @@ async fn main() {
         }
     }
 }
-
 
 async fn resolve_query(addr: &str, query: Message) -> Result<Vec<u8>> {
     info!("Resolving Query");

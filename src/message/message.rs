@@ -43,7 +43,7 @@ impl Message {
         let header = Header::parse(&buf);
         debug!("Parsed request header: {:?}", header);
 
-        let (questions, _)=
+        let (questions, _) =
             Question::parse(&buf, header.question_count).expect("Parsing Should Succeed");
         debug!("Parsed question(s): {:?}", questions);
 
@@ -52,22 +52,23 @@ impl Message {
             questions,
             answer: vec![],
         }
-
     }
     pub fn parse_resolver_response(buf: &[u8]) -> Self {
         let header = Header::parse(&buf);
         debug!("Parsed request header: {:?}", header);
 
-        let (questions, pos) = Question::parse(&buf, header.question_count).expect("Parsing Should Succeed");
+        let (questions, pos) =
+            Question::parse(&buf, header.question_count).expect("Parsing Should Succeed");
         debug!("Parsed question(s): {:?}", questions);
 
-        let answers = Answer::parse(&buf, pos, header.question_count).expect("Parsing Should Succeed");
+        let answers =
+            Answer::parse(&buf, pos, header.question_count).expect("Parsing Should Succeed");
         debug!("Parsed answer(s): {:?}", answers);
 
         Self {
             header,
             questions,
-            answer: answers
+            answer: answers,
         }
     }
 
